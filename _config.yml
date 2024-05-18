@@ -1,3 +1,4 @@
 tilte: paul
 theme: jekyll-theme-minimal
 markdown: kramdown
+usemathjax: true
